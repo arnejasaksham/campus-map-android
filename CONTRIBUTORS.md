@@ -1,5 +1,11 @@
 # Contributors:
 Soham Kulkarni  
-Krishnan R 
-
-Saksham Arneja
+Krishnan R  
+Venu Madhav Y  
+Chirag Nighut  
+Rishabh Gupta  
+Aditya Pal  
+Bitan Sarkar  
+Arham Jain  
+Ankur Mazumder  
+Saksham Arneja  
